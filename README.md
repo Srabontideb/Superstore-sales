@@ -1,2 +1,12 @@
-# Superstore-sales
-Cleaned and analyzed sales data using Python (Pandas) in a Kaggle notebook. Includes data filtering, date parsing, and CSV export for dashboard/reporting purposes.
+# Sales Dashboard Analysis
+
+This project includes:
+
+- 🧠 A Kaggle Notebook (`sales_analysis.ipynb`) for analyzing sales data
+- 📊 A cleaned dataset (`cleaned_sales_data.csv`)
+- ✅ Data cleaning, filtering, and preparation using Python and Pandas
+
+## Tools Used
+- Python (Pandas, Matplotlib)
+  
+
